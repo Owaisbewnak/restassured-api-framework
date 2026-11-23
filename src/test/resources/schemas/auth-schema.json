@@ -1,0 +1,1 @@
+{"$schema":"http://json-schema.org/draft-07/schema#","additionalProperties":false,"properties":{"token":{"minLength":1,"type":"string"}},"required":["token"],"title":"Auth token","type":"object"}
